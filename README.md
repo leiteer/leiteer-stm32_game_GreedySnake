@@ -56,18 +56,31 @@
 
 ## 目录结构
 STM32F4_Snake/
+
 ├── Core/
+
 │ ├── Inc/
+
 │ └── Src/
+
 ├── Drivers/
+
 │ ├── Mydrivers/
+
 │ │ ├── snake.c // 游戏核心代码
+
 │ │ ├── snake.h // 游戏头文件
+
 │ │ ├── lcd.c // LCD驱动
+
 │ │ ├── lcd.h
+
 │ │ ├── key.c // 按键驱动
+
 │ │ └── key.h
+
 │ └── STM32F4xx_HAL_Driver/
+
 └── MDK-ARM/
 
 ## 编译说明
