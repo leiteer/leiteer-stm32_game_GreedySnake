@@ -8,15 +8,21 @@
   - 动态的S形蛇图标
   - 游戏标题显示
   - 操作说明
+![微信图片_20250110154647](https://github.com/user-attachments/assets/249f7e66-28ea-433d-9d01-21088d434165)
+
 - 游戏功能
   - 流畅的蛇身移动
   - 实时分数显示
   - 食物随机生成
   - 碰撞检测
   - 游戏结束判定
+![微信图片_20250110154659](https://github.com/user-attachments/assets/8e0e36e2-f5d6-47d8-a8a8-060fe5090662)
+
 - 游戏结束界面
   - 显示最终得分
   - 一键返回主菜单
+![微信图片_20250110154659](https://github.com/user-attachments/assets/4cff058c-32f2-45a2-bb49-bbee18b721e6)
+
 
 ## 硬件要求
 
