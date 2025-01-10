@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "snake.h": "c",
+            "lcd.h": "c",
+            "key.h": "c"
+        }
+    },
+    "extensions": {}
+}
